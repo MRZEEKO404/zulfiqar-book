@@ -1,1 +1,29 @@
-
+{
+  "project_info": {
+    "project_number": "871543848400",
+    "project_id": "zulfiqar-5be03",
+    "storage_bucket": "zulfiqar-5be03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871543848400:android:3faec991634f2afcdf0dd5",
+        "android_client_info": {
+          "package_name": "com.zulfiqar.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVs7CbRY4lKKgqYuOQF0n1FnYnxT-gDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
